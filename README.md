@@ -1,11 +1,9 @@
-### Hello, I am ToBeatElite
-- #### I am interested in CyberSecurity and Penetration Testing
-- #### I like to do CTF's and HTB in my free time
-- #### I like programming in Python and Rust
-
+#### Hello, I am <bold>FalseGhost</bold> 
+---
+```
+I'm interested in InfoSec and PenTesting. I do HTB in my free time, 
+with the occasional CTF. And I like to program in RustLang & Python.
+```
 <img src="https://www.hackthebox.eu/badge/image/422205"/>
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=ToBeatELIT3)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![Views](https://visitor-badge.glitch.me/badge?page_id=ToBeatELIT3)
