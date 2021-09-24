@@ -8,7 +8,7 @@
 ```
 [*] HTB CA TOP 50 - Sep 18 
 ```
-![HTB](https://www.hackthebox.eu/badge/image/422205")
+<img src="http://www.hackthebox.eu/badge/image/422205" alt="Hack The Box">
 
 ![Views](https://visitor-badge.glitch.me/badge?page_id=ToBeatELIT3)
 
