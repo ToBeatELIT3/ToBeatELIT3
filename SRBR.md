@@ -28,7 +28,7 @@ tohrughrug -> neutral
 
 Range can go from 10/10 *PEPEGA* as the lowest, to 10/10 *EZPEPE* as the highest.
 
-A 0/0 *<TOHRUSHRUG>* exists as neutral only. There is no other number rating assossiated with this emote.
+A 0/0 *TOHRUSHRUG* exists as neutral only. There is no other number rating assossiated with this emote.
   
   
 #### Coke Rating
