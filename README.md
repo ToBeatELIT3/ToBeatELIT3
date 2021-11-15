@@ -9,6 +9,7 @@
 [*] HTB CA Top 50 - Sep 18
 [*] HTB CA Top 25 - Sep 30
 [*] Auth0 CTF Top 50 - Oct 25
+[*] Coalfire - Firewalker CTF Top 50 - Nov 15
 ```
 <img src="http://www.hackthebox.eu/badge/image/422205" alt="Hack The Box">
 
