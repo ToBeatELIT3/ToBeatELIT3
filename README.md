@@ -4,7 +4,9 @@
 - I'm interested in InfoSec and PenTesting
 - I do HTB in my free time, with the occasional CTF.
 - I like to program in RustLang & Python
+- Yes, this is up-to date
 ```
+
 ```
 [*] HTB CA Top 50 - Sep 18
 [*] HTB CA Top 25 - Sep 30
